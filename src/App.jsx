@@ -4,7 +4,7 @@ import Countries from "./components/countries/Countries";
 function App() {
   return (
     <>
-      <h1>react world</h1>
+      <h1>react world one</h1>
       <Countries></Countries>
     </>
   );
