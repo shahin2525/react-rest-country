@@ -4,3 +4,7 @@
   border: 2px solid hotpink;
   border-radius: 5px;
 }
+
+.visited {
+  background-color: bisque;
+}
